@@ -15,6 +15,10 @@ http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet
 #EXTINF:0,Espn
 #EXTGRP: Sports
 http://live.himel-himu.tk/ICC-WC-2023/ESPN+_Hindi_SD/hls/Himel-Op.m3u8
+
+#EXTINF:0,T-Sports token
+#EXTGRP: Sports
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=3fafd19515dd8acb3ee4cab346e817ddb01d6a71-4ad6f28daea414de2db2a28a888e3ef7-1697977941-1697967141
 #EXTINF:0,T-Sports
 #EXTGRP: Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
