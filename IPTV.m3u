@@ -6,12 +6,15 @@
 #EXTINF:0,FTP DDN
 #EXTGRP: Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
+
 #EXTINF:0,FTP DDN 2
 #EXTGRP: Sports
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=44385623
+
 #EXTINF:0,FTP DDN 3
 #EXTGRP: Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
+
 #EXTINF:0,Espn
 #EXTGRP: Sports
 http://live.himel-himu.tk/ICC-WC-2023/ESPN+_Hindi_SD/hls/Himel-Op.m3u8
@@ -19,33 +22,43 @@ http://live.himel-himu.tk/ICC-WC-2023/ESPN+_Hindi_SD/hls/Himel-Op.m3u8
 #EXTINF:0,T-Sports token
 #EXTGRP: Sports
 http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=3fafd19515dd8acb3ee4cab346e817ddb01d6a71-4ad6f28daea414de2db2a28a888e3ef7-1697977941-1697967141
+
 #EXTINF:0,T-Sports
 #EXTGRP: Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Gazi Tv
 #EXTGRP: Sports
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Fox
 #EXTGRP: Sports
 https://isp.sananda.online/Fox/video.m3u8
+
 #EXTINF:0,World Cup Live 3
 #EXTGRP: Sports
 https://sportsleading.online/live/stream_e3.m3u8
+
 #EXTINF:0,World Cup Live 4
 #EXTGRP: Sports
 http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
+
 #EXTINF:0,Football live 1
 #EXTGRP: Sports
 http://live.himel-himu.tk/Saudi-Pro-League/Sony-LIV/hls/Himel-Op.m3u8
+
 #EXTINF:0,Sky Cricket TG
 #EXTGRP:Sports
 http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
+
 #EXTINF:0,Sky sports cricket
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7343/index.m3u8
+
 #EXTINF:0,Sky sports f1
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
+
 #EXTINF:0,Sky Sports Main Events
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
