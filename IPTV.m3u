@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTM3U
+
+**Sports**
+
 #EXTINF:0,FTP DDN
 #EXTGRP: Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
@@ -39,6 +42,9 @@ http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
 #EXTINF:0,Sky Sports Main Events
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
+
+**Bangladeshi**
+
 #EXTINF:0,SATV(1)
 #EXTGRP:Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -105,6 +111,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:0,IB Tv Usa
 #EXTGRP:Bangladeshi
 http://208.86.19.13:81/509.stream/index.m3u8
+
+**Indian**
+
 #EXTINF:0,IN: Star Plus
 #EXTGRP:India
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67236
@@ -186,6 +195,9 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:0,India Today [Not 24/7]
 #EXTGRP:Indian News
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+**Infotairment**
+
 #EXTINF:0,Discovery HD
 #EXTGRP:Infotairment
 http://103.141.2.38/hls/discovery.m3u8
