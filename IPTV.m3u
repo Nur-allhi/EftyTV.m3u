@@ -33,6 +33,9 @@ http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:0,Football live 1
 #EXTGRP: Sports
 http://live.himel-himu.tk/Saudi-Pro-League/Sony-LIV/hls/Himel-Op.m3u8
+#EXTINF:0,Sky Cricket TG
+#EXTGRP:Sports
+http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 #EXTINF:0,Sky sports cricket
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7343/index.m3u8
