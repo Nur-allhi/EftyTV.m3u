@@ -3,27 +3,27 @@
 
 **Sports**
 
-#EXTINF:0, FTP DDN
+#EXTINF:0,FTP DDN
 #EXTGRP: Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs23/chunks.m3u8
 
-#EXTINF:0, FTP DDN 2
+#EXTINF:0,FTP DDN 2
 #EXTGRP: Sports
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=44385623
 
-#EXTINF:0, FTP DDN 3
+#EXTINF:0,FTP DDN 3
 #EXTGRP: Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
 
-#EXTINF:0, World Cup live 
+#EXTINF:0,World Cup live 
 #EXTGRP: Sports
 http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 
-#EXTINF:0,  World Cup Live 2
+#EXTINF:0,World Cup Live 2
 #EXTGRP: Sports
 http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 
-#EXTINF:0,  World Cup Live 3
+#EXTINF:0,World Cup Live 3
 #EXTGRP: Sports
 https://sportsleading.online/live/streamfreecric.m3u8
 
@@ -31,15 +31,15 @@ https://sportsleading.online/live/streamfreecric.m3u8
 #EXTGRP: Sports
 http://100.100.100.100:8081/ctgiptv/sports-4/chunks.m3u8?nimblesessionid=722954
 
-#EXTINF:0, T-Sports token
+#EXTINF:0,T-Sports token
 #EXTGRP: Sports
 http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=50a12c8a284fcaa0e96696222a5e4cb1014ee804-0ef76ae55d87d9d9472315ba9ac31006-1698056642-1698045842
 
-#EXTINF:0, GTV Token
+#EXTINF:0,GTV Token
 #EXTGRP: Sports
 http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=71cbc33115ab6545e6202756ffbccf6ee1736d0c-ab3f76190dd42ae023c4db45e027bdc9-1698056742-1698045942
 
-#EXTINF:0, Gazi Tv
+#EXTINF:0,Gazi Tv
 #EXTGRP: Sports
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
@@ -47,23 +47,23 @@ http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTGRP: Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,  Sky Sports Cricket
+#EXTINF:0,Sky Sports Cricket
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7343/index.m3u8
 
-#EXTINF:0, Sky sports f1
+#EXTINF:0,Sky sports f1
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
 
-#EXTINF:0,  Sky Sports Main Events
+#EXTINF:0,Sky Sports Main Events
 #EXTGRP: Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
 
-#EXTINF:0, Sports 18
+#EXTINF:0,Sports 18
 #EXTGRP: Sports
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:0, Football live 1
+#EXTINF:0,Football live 1
 #EXTGRP: Sports
 http://live.himel-himu.tk/Saudi-Pro-League/Sony-LIV/hls/Himel-Op.m3u8
 
@@ -76,64 +76,64 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTGRP: Bangladeshi
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0, DBC News
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:0, CHANNEL 24
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0, Ekushey TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0, INDEPENDENT TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://str24.l9574.com/668.stream/index.m3u8?
 #EXTINF:0, MY TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0, Jago News
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0, CHANNEL I(1)
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://str24.l9574.com/510.stream/index.m3u8?
 #EXTINF:0, CHANNEL I (2)
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:0, CHANNEL I (3)
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:0, Somoy TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0, DW(Jagobd)
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:0, Dw German Tv
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:0, Asian TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0, DeeptoTV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:0, Boishakhi tv
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0, 1.Anando TV
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0, ATN Bangla
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0, Banglavision
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:0, Channel S
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:0,  IB Tv Usa
-#EXTGRP:Bangladeshi
+#EXTGRP: Bangladeshi
 http://208.86.19.13:81/509.stream/index.m3u8
 
 **Cartoons**
@@ -228,12 +228,12 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
 **Infotainment**
 #EXTINF:24, Deen TV
-#EXTGRP:  Infotainment
+#EXTGRP:Infotainment
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 #EXTINF:12, Peace Tv
-#EXTGRP:  Infotainment
+#EXTGRP:Infotainment
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:0, Makkah Live
-#EXTGRP:  Infotainment
+#EXTGRP:Infotainment
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
