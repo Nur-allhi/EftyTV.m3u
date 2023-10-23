@@ -33,11 +33,11 @@ http://100.100.100.100:8081/ctgiptv/sports-4/chunks.m3u8?nimblesessionid=722954
 
 #EXTINF:0,T-Sports token
 #EXTGRP:Sports
-http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=50a12c8a284fcaa0e96696222a5e4cb1014ee804-0ef76ae55d87d9d9472315ba9ac31006-1698056642-1698045842
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=4abcefa3e535a6e29804ac560c27b2e787f2d926-7024ee90afc7ae1dcefe54397b4aa52b-1698069161-1698058361
 
 #EXTINF:0,GTV Token
 #EXTGRP:Sports
-http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=71cbc33115ab6545e6202756ffbccf6ee1736d0c-ab3f76190dd42ae023c4db45e027bdc9-1698056742-1698045942
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=364391d5d209cf872fd109d673661d2e50f70c4f-7c3a7f0e0c6199065d7e2d506bb811e9-1698069186-1698058386
 
 #EXTINF:0,Gazi Tv
 #EXTGRP:Sports
