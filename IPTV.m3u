@@ -16,22 +16,18 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
 
 #EXTINF:0, World Cup live 
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2023_CWC_Logo.svg/800px-2023_CWC_Logo.svg.png"
 #EXTGRP: Sports
 http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 
 #EXTINF:0,  World Cup Live 2
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2023_CWC_Logo.svg/800px-2023_CWC_Logo.svg.png"
 #EXTGRP: Sports
 http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:0,  World Cup Live 3
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2023_CWC_Logo.svg/800px-2023_CWC_Logo.svg.png"
 #EXTGRP: Sports
 https://sportsleading.online/live/streamfreecric.m3u8
 
 #EXTINF:0,  World Cup Live 4
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2023_CWC_Logo.svg/800px-2023_CWC_Logo.svg.png"
 #EXTGRP: Sports
 http://100.100.100.100:8081/ctgiptv/sports-4/chunks.m3u8?nimblesessionid=722954
 
