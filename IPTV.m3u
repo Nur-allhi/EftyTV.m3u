@@ -4,19 +4,19 @@
 **Sports**
 
 #EXTINF:0,FTP DDN
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs23/chunks.m3u8
 
 #EXTINF:0,FTP DDN 2
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=44385623
 
 #EXTINF:0,FTP DDN 3
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
 
 #EXTINF:0,World Cup live 
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 
 #EXTINF:0,World Cup Live 2
@@ -24,47 +24,47 @@ http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:0,World Cup Live 3
-#EXTGRP: Sports
+#EXTGRP:Sports
 https://sportsleading.online/live/streamfreecric.m3u8
 
-#EXTINF:0,  World Cup Live 4
+#EXTINF:0,World Cup Live 4
 #EXTGRP: Sports
 http://100.100.100.100:8081/ctgiptv/sports-4/chunks.m3u8?nimblesessionid=722954
 
 #EXTINF:0,T-Sports token
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=50a12c8a284fcaa0e96696222a5e4cb1014ee804-0ef76ae55d87d9d9472315ba9ac31006-1698056642-1698045842
 
 #EXTINF:0,GTV Token
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=71cbc33115ab6545e6202756ffbccf6ee1736d0c-ab3f76190dd42ae023c4db45e027bdc9-1698056742-1698045942
 
 #EXTINF:0,Gazi Tv
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, T-Sports
-#EXTGRP: Sports
+#EXTINF:0,T-Sports
+#EXTGRP:Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Sky Sports Cricket
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7343/index.m3u8
 
 #EXTINF:0,Sky sports f1
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
 
 #EXTINF:0,Sky Sports Main Events
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
 
 #EXTINF:0,Sports 18
-#EXTGRP: Sports
+#EXTGRP:Sports
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0,Football live 1
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://live.himel-himu.tk/Saudi-Pro-League/Sony-LIV/hls/Himel-Op.m3u8
 
 **Bangladeshi**
@@ -227,13 +227,13 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 **Infotainment**
-#EXTINF:24, Deen TV
+#EXTINF:0, Deen TV
 #EXTGRP:Infotainment
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
-#EXTINF:12, Peace Tv
+#EXTINF:0, Peace Tv
 #EXTGRP:Infotainment
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:0, Makkah Live
+#EXTINF:12, Makkah Live
 #EXTGRP:Infotainment
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
