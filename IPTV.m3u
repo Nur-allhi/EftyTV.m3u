@@ -20,7 +20,7 @@ http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet
 http://live.himel-himu.tk/Sky-Cric-FHD/hls/Himel-Op.m3u8
 
 #EXTINF:0,World Cup Live 2
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:0,World Cup Live 3
@@ -28,7 +28,7 @@ http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 https://sportsleading.online/live/streamfreecric.m3u8
 
 #EXTINF:0,World Cup Live 4
-#EXTGRP: Sports
+#EXTGRP:Sports
 http://100.100.100.100:8081/ctgiptv/sports-4/chunks.m3u8?nimblesessionid=722954
 
 #EXTINF:0,T-Sports token
