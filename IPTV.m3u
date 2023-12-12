@@ -623,3 +623,368 @@ https://cdn8.aliflailabd.com/madani-tv/index.m3u8
 https://cdn8.aliflailabd.com/global-tv/index.m3u8
 #EXTINF:-1,BTV World 
 https://cdn8.aliflailabd.com/btv-world/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports-Only",МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",A SPORTS FHD Temporary
+http://195.26.87.217/live.ts?channelId=12217&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",amgtennisus
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+#EXTINF:-1 group-title="Sports-Only",Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 group-title="Sports-Only",Astro Cricket
+http://sysadminhost.net:8080//live/F22238/bf396b24/157565.ts
+#EXTINF:-1 group-title="Sports-Only",Astro Cricket Temporary
+http://195.26.87.217/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Astro Cricket. Temporary
+http://195.26.87.217/live.ts?channelId=33317&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",ASTRO SUPERSPORT 1 FHD Temporary
+http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",ASTRO SUPERSPORT 2 FHD Temporary
+http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",ASTRO SUPERSPORT 3 FHD Temporary
+http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",ASTRO SUPERSPORT 4 FHD Temporary
+http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",BEIN SPORTS 1 ENGLISH FHD Temporary
+http://195.26.87.217/live.ts?channelId=102481&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BEIN Sports 2 English FHD Temporary
+http://195.26.87.217/live.ts?channelId=125427&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BEIN Sports 3 English FHD Temporary
+http://195.26.87.217/live.ts?channelId=125428&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BEIN SPORTS HD
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1 group-title="Sports-Only",BT Sports 1 FHD Temporary
+http://195.26.87.217/live.ts?channelId=267&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BT Sports 2 FHD Temporary
+http://195.26.87.217/live.ts?channelId=268&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BT Sports 3 FHD Temporary
+http://195.26.87.217/live.ts?channelId=269&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BT Sports 4 FHD Temporary
+http://195.26.87.217/live.ts?channelId=270&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",BUNDES LIGA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",DAZN 1 DE FHD
+http://195.26.87.217/live.ts?channelId=125424&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",DAZN 2 DE FHD
+http://195.26.87.217/live.ts?channelId=125425&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",DD Sports
+http://195.26.87.217/live.ts?channelId=74567&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Edge SPORTS
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",ESPN US 1 FHD
+http://195.26.87.217/live.ts?channelId=271&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",EUROSPORT 1 FHD
+http://195.26.87.217/live.ts?channelId=272&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Eurosport 1 HD
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 group-title="Sports-Only",EUROSPORT 2 FHD
+http://195.26.87.217/live.ts?channelId=273&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Eurosport 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 group-title="Sports-Only",Event Extra TV
+https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Fancord Live
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7VpUl7Vy8eK4AHA-_bePL02iHwv8LUPx8VPGQdn0fcJduzGz7bfb7r1o2Vw9PksihQpdvqyVPZjaI9LeJKEIxg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Sports-Only",FIGHT BOX FHD
+http://195.26.87.217/live.ts?channelId=125426&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Flow Sports
+http://195.26.87.217/live.ts?channelId=105348&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Fox Sports 3 LatinoAmerica HD
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",Fox Sports 501 Cricket FHD
+http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Fox Sports 501 HD
+http://sysadminhost.net:8080//live/F22238/bf396b24/279034.ts
+#EXTINF:-1 group-title="Sports-Only",FoxSports  HD.
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",FOXSPORTS 3 HD.
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",FS1 FHD
+http://195.26.87.217/live.ts?channelId=102480&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Gazi TV (4)
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
+#EXTINF:-1 group-title="Sports-Only",Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",Geo Super FHD
+http://195.26.87.217/live.ts?channelId=274&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 group-title="Sports-Only",Jio Cricket English FHD
+http://195.26.87.217/live.ts?channelId=294&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",LIGA ITALY 3
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",LIVE CRICKET FHD
+http://195.26.87.217/live.ts?channelId=102423&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",LIVE CRICKET FHD.
+http://195.26.87.217/live.ts?channelId=87939&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Live Kabaddi
+http://195.26.87.217/live.ts?channelId=276&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",LIVE MATCH
+http://195.26.87.217/live.ts?channelId=104607&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Live Sports Sky Sports Football Temporary
+http://142.54.172.138/premium35/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 group-title="Sports-Only",Live Sports TNT Sports 1 Temporary
+http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 group-title="Sports-Only",Live Sports TNT Sports 2 Temporary
+http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 group-title="Sports-Only",Live Sports TNT Sports 3 Temporary
+http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 group-title="Sports-Only",Live Sports TNT Sports 4 Temporary
+http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 group-title="Sports-Only",Live Stream 2
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2145.ts
+#EXTINF:-1 group-title="Sports-Only",MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",MAX SPORTS 2
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+#EXTINF:-1 group-title="Sports-Only",MUTV (Manchester United TV)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",MUTV FHD
+http://195.26.87.217/live.ts?channelId=125434&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",One Golf TV
+http://195.26.87.217/live.ts?channelId=33163&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",PREMIER SPORTS 1 FHD
+http://195.26.87.217/live.ts?channelId=91158&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",PREMIER SPORTS 2 FHD
+http://195.26.87.217/live.ts?channelId=91159&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",PTV Sports FHD
+http://195.26.87.217/live.ts?channelId=278&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",PTV Sports FHD.
+http://195.26.87.217/live.ts?channelId=279&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",RACING TV
+http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Real Madrid TV FHD
+http://195.26.87.217/live.ts?channelId=125433&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Red Bull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Arena FHD
+http://195.26.87.217/live.ts?channelId=36132&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Cricket
+https://sports.freesportstime.com/live/streamfreecric.m3u8
+#EXTINF:-1 group-title="Sports-Only",SKY Sports Cricket FHD
+http://195.26.87.217/live.ts?channelId=281&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SKY Sports Cricket FHD.
+http://195.26.87.217/live.ts?channelId=35530&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports F1 FHD
+http://195.26.87.217/live.ts?channelId=282&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Football.
+http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Golf FHD
+http://195.26.87.217/live.ts?channelId=283&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",SKY SPORTS MAIN EVENT
+http://89.187.167.94:80/live.ts?channelId=135&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Main Event FHD
+http://195.26.87.217/live.ts?channelId=284&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SKY SPORTS MIX
+http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",SKY SPORTS NEWS
+http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sky Sports News FHD
+http://195.26.87.217/live.ts?channelId=285&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports News.
+http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sky Sports NFL FHD
+http://195.26.87.217/live.ts?channelId=280&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Premier League FHD
+http://195.26.87.217/live.ts?channelId=286&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SKY SPORTS RACING
+http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Sony Sports 1 FHD
+http://195.26.87.217/live.ts?channelId=289&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sony Sports 2 FHD
+http://195.26.87.217/live.ts?channelId=290&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sony Sports 3 FHD
+http://195.26.87.217/live.ts?channelId=291&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sony Sports 4 HD
+http://195.26.87.217/live.ts?channelId=105349&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sony Sports 5 HD
+http://195.26.87.217/live.ts?channelId=105350&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sony Sports Ten 1 HD(BD)
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Sony Sports Ten 2 HD(Toffee)
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Sony Sports Ten 5(Flixhub)
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",sport
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+#EXTINF:-1 group-title="Sports-Only",Sports 1
+https://cdn8.aliflailabd.com/sports-ch-1/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",SPORTS 18
+http://103.141.2.37:25461/web/web/588
+#EXTINF:-1 group-title="Sports-Only",SPORTS 18 HD
+http://195.26.87.217/live.ts?channelId=102479&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SPORTS 18 KHEL
+http://195.26.87.217/live.ts?channelId=102478&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sports Trends TV
+http://195.26.87.217/live.ts?channelId=292&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="Sports-Only",SPORTS TV 1
+http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
+#EXTINF:-1 group-title="Sports-Only",SPORTY STUFF
+http://89.187.167.94:80/live.ts?channelId=108&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 FHD
+http://195.26.87.217/live.ts?channelId=293&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 FHD.
+http://195.26.87.217/live.ts?channelId=49566&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 Hindi
+http://195.26.87.217/live.ts?channelId=295&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 Hindi.
+http://195.26.87.217/live.ts?channelId=49569&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 SD
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 Tamil FHD
+http://195.26.87.217/live.ts?channelId=275&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 1 Telugu HD
+http://195.26.87.217/live.ts?channelId=288&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 2 HD
+http://195.26.87.217/live.ts?channelId=298&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports 2 HD.
+http://195.26.87.217/live.ts?channelId=49568&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports Select 1 HD
+http://195.26.87.217/live.ts?channelId=299&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Star Sports Select 2 HD
+http://195.26.87.217/live.ts?channelId=300&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Starzplay CricLife 1 FHD
+http://195.26.87.217/live.ts?channelId=125421&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Starzplay CricLife 2 FHD
+http://195.26.87.217/live.ts?channelId=125422&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Starzplay CricLife 3 FHD
+http://195.26.87.217/live.ts?channelId=125423&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SUOER SPORTS VARITY
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 group-title="Sports-Only",Super Sports Grandstand
+http://sysadminhost.net:8080//live/F22238/bf396b24/194353.ts
+#EXTINF:-1 group-title="Sports-Only",SUPER SPORTS LALIGA
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 group-title="Sports-Only",SUPER SPORTS VARIETY 2
+https://mlb.mrgamingstreams.com/variety2.m3u8
+#EXTINF:-1 group-title="Sports-Only",SUPER SPORTS VARIETY 3
+https://mlb.mrgamingstreams.com/variety3.m3u8
+#EXTINF:-1 group-title="Sports-Only",SuperSport Action Temporary
+http://195.26.87.217/live.ts?channelId=125436&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Blitz Temporary
+http://195.26.87.217/live.ts?channelId=125437&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Cricket Temporary
+http://195.26.87.217/live.ts?channelId=125438&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Football Temporary
+http://195.26.87.217/live.ts?channelId=125439&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Golf Temporary
+http://195.26.87.217/live.ts?channelId=125440&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Grandstand Temporary
+http://195.26.87.217/live.ts?channelId=125441&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport LaLiga Temporary
+http://195.26.87.217/live.ts?channelId=125442&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Maximo 1 Temporary
+http://195.26.87.217/live.ts?channelId=125443&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Motorsport Temporary
+http://195.26.87.217/live.ts?channelId=125444&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Premier League Temporary
+http://195.26.87.217/live.ts?channelId=125445&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport PSL Temporary
+http://195.26.87.217/live.ts?channelId=125446&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Rugby Temporary
+http://195.26.87.217/live.ts?channelId=125447&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Tennis Temporary
+http://195.26.87.217/live.ts?channelId=125448&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Variety 1 Temporary
+http://195.26.87.217/live.ts?channelId=125449&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Variety 2 Temporary
+http://195.26.87.217/live.ts?channelId=125450&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Variety 3 Temporary
+http://195.26.87.217/live.ts?channelId=125451&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",SuperSport Variety 4 Temporary
+http://195.26.87.217/live.ts?channelId=125452&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",T Sports FHD
+http://195.26.87.217/live.ts?channelId=48010&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Ten Sports
+http://195.26.87.217/live.ts?channelId=301&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Tennis Channel FHD
+http://195.26.87.217/live.ts?channelId=296&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",tennischannel-intl-samsung-uk
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Sports-Only",TNT Sport 1
+http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1 group-title="Sports-Only",TNT SPORTS 1
+http://89.187.167.93:80/live.ts?channelId=153&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",TNT Sports 1 HD
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="Sports-Only",TNT Sports 1 ru
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 group-title="Sports-Only",TNT Sports 2(BD)
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#EXTINF:-1 group-title="Sports-Only",TNT SPORTS 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="Sports-Only",TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+#EXTINF:-1 group-title="Sports-Only",TNT Sports 4(BD)
+https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1 group-title="Sports-Only",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="Sports-Only",TURKMENISTAN SPORTS 🇹🇷
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="Sports-Only",TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="Sports-Only",ViaPlay 2 UK
+http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
+#EXTINF:-1 group-title="Sports-Only",VIAPLAY EXTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="Sports-Only",Viaplay Xtra FHD
+http://195.26.87.217/live.ts?channelId=125435&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",VIJU SPORTS
+https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports-Only",Willow Cricket
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 group-title="Sports-Only",Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 group-title="Sports-Only",Willow Cricket HD.
+http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 group-title="Sports-Only",Willow HD
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 group-title="Sports-Only",Willow Xtra
+http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",WORLD CUP AD FREE
+http://195.26.87.217/live.ts?channelId=78845&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",WWE Sports
+http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Sports-Only",X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
