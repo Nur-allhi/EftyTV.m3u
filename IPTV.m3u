@@ -81,6 +81,10 @@ http://livetvbox.live:8080/live/Juan/Juan/3814.ts
 https://cdn8.aliflailabd.com/spacetoon/index.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Time TV
 http://208.86.19.13:81/506.stream/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Bangla tvs Server-Alif",Anando TV
 https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla tvs Server-Alif",Asian TV
@@ -155,6 +159,10 @@ https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
 https://cdn8.aliflailabd.com/SATV/index.m3u8
 #EXTINF:-1 group-title="Bangla tvs Server-Alif",Somoy TV
 https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Sports Selected Tvs",A Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 #EXTINF:-1 group-title="Sports Selected Tvs",AD Sports 1
@@ -231,6 +239,10 @@ https://cdn8.aliflailabd.com/star-sports-1/index.m3u8
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
 #EXTINF:-1 group-title="Sports Selected Tvs",TEN SPORTS HD
 http://media.3starisp.com.pk:80/bangla/bangla1/3849.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Infotertainment",ARY QTV
 http://media.3starisp.com.pk:80/bangla/bangla1/3749.m3u8
 #EXTINF:-1 group-title="Infotertainment",Discovery
@@ -279,6 +291,9 @@ http://media.3starisp.com.pk:80/bangla/bangla1/3858.m3u8
 http://media.3starisp.com.pk:80/bangla/bangla1/3859.m3u8
 #EXTINF:-1 group-title="Infotertainment",VH1
 https://cdn8.aliflailabd.com/VH1/index.m3u8
+
+
+
 #EXTINF:-1 group-title="India Tvs",& Picture
 https://cdn8.aliflailabd.com/and-Picture-HD/index.m3u8
 #EXTINF:-1 group-title="India Tvs",&PRIVE HD
@@ -403,8 +418,11 @@ https://cdn8.aliflailabd.com/8xm/index.m3u8
 https://cdn8.aliflailabd.com/9XM/index.m3u8
 #EXTINF:-1 group-title="India Tvs",9XM Jalwa
 https://cdn8.aliflailabd.com/9XM-jalwa/index.m3u8
-#EXTINF:-1 group-title="India Tvs",39. Atn News Bangla
-http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
+
+
+
+
+
 #EXTINF:-1 group-title="Cartoons",Animax
 https://cdn8.aliflailabd.com/animax/index.m3u8
 #EXTINF:-1 group-title="Cartoons",CARTOON NETWORK
@@ -419,6 +437,10 @@ https://cdn8.aliflailabd.com/nick-hd/index.m3u8
 https://cdn8.aliflailabd.com/nick-jr/index.m3u8
 #EXTINF:-1 group-title="Cartoons",Sonic
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Sports-Only",МАТЧ Футбол 3 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports-Only",МАТЧ Футбол 3 HD 🇷🇺
