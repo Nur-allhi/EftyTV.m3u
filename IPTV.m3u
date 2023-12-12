@@ -221,6 +221,8 @@ https://cdn8.aliflailabd.com/sananda/index.m3u8
 https://cdn8.aliflailabd.com/sangeet-bangla/index.m3u8
 #EXTINF:-1 group-title="India Tvs",Sony
 https://cdn8.aliflailabd.com/Sony-entertainment/index.m3u8
+#EXTINF:-1 group-title="India Tvs",SONY TV FHD
+http://media.3starisp.com.pk:80/bangla/bangla1/3704.m3u8
 #EXTINF:-1 group-title="India Tvs",Sony Aath
 https://cdn8.aliflailabd.com/sony-aath/index.m3u8
 #EXTINF:-1 group-title="India Tvs",Sony Kal
