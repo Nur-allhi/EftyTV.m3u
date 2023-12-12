@@ -273,17 +273,17 @@ https://cdn8.aliflailabd.com/8xm/index.m3u8
 https://cdn8.aliflailabd.com/9XM/index.m3u8
 #EXTINF:-1 group-title="India Tvs",9XM Jalwa
 https://cdn8.aliflailabd.com/9XM-jalwa/index.m3u8
-#EXTINF:-1 -1group-title="India" group-title="All",COLORS BANGLA
+#EXTINF:-1 -1group-title="India Tvs" group-title="All",COLORS BANGLA
 http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF:-1 group-title="All",Travel XP
+#EXTINF:-1 group-title="India Tvs",Travel XP
 https://cdn8.aliflailabd.com/travel-xp/index.m3u8
-#EXTINF:-1 group-title="All",39. Atn News Bangla
+#EXTINF:-1 group-title="India Tvs",39. Atn News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="Cartoons",Animax
 https://cdn8.aliflailabd.com/animax/index.m3u8
 #EXTINF:-1 group-title="Cartoons",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 group-title="Cartoons",Cartoon Network
+#EXTINF:-1 group-title="Cartoons",Disnip Junior
 https://cdn8.aliflailabd.com/Cartoon-Network-hd/index.m3u8
 #EXTINF:-1 group-title="Cartoons",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
