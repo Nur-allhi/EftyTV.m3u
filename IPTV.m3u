@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Live sports",Premier League
+https://live.himel-himu@hls.streambtw.com/live/stream_1.m3u8?key=himel-op
+
+
 #EXTINF:-1 group-title="Bangla Tvs - Jagobd Server",Green Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs - Jagobd Server", Ananda Tv
@@ -77,8 +82,6 @@ http://102.102.102.102:8080/roarzone/bk/17/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla Tvs",Ananda-TV
 http://livetvbox.live:8080/live/Juan/Juan/399.ts
-#EXTINF:-1 group-title="Bangla Tvs",Bangla tv HD
-http://galaxyiptv.pro:8080/asimbutt/000423/178405
 #EXTINF:-1 group-title="Bangla Tvs",BANGLAVISION
 http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Bijoy tv HD
@@ -103,7 +106,6 @@ http://galaxyiptv.pro:8080/asimbutt/000423/178396
 http://livetvbox.live:8080/live/Juan/Juan/414.ts
 #EXTINF:-1 group-title="Bangla Tvs",Doranto HD
 http://livetvbox.live:8080/live/Juan/Juan/433.ts
-
 #EXTINF:-1 group-title="Bangla Tvs",EKATTOR TV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Ekattor TV HD
@@ -126,7 +128,6 @@ http://livetvbox.live:8080/live/Juan/Juan/999.ts
 http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Maasranga
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Bangla Tvs",MOHANA TV HD
 http://livetvbox.live:8080/live/Juan/Juan/397.ts
 #EXTINF:-1 group-title="Bangla Tvs",Mytv HD
@@ -151,85 +152,6 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 http://livetvbox.live:8080/live/Juan/Juan/3814.ts
 #EXTINF:-1 group-title="Bangla Tvs",Time TV
 http://208.86.19.13:81/506.stream/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Anando TV
-https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Asian TV
-https://cdn8.aliflailabd.com/asiantv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",ATN Bangla
-https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",ATN News
-https://cdn8.aliflailabd.com/atn-news/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Bangla TV
-https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Banglavision
-https://cdn8.aliflailabd.com/banglavision/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Bijoy TV
-https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Boishakhi
-https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",BTV
-https://cdn8.aliflailabd.com/BTV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",BTV World
-https://cdn8.aliflailabd.com/btv-world/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Channel 9
-https://cdn8.aliflailabd.com/Channel-9/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Channel 24
-https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Channel I
-https://cdn8.aliflailabd.com/Channel-i/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",DBC News
-https://cdn8.aliflailabd.com/DBC-News/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Deepto TV
-https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Desh TV
-https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Duronto TV
-https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Ekattor
-https://cdn8.aliflailabd.com/Ekattor/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Ekushey TV
-https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Gaan Bangla
-https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Global TV
-https://cdn8.aliflailabd.com/global-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",GTV
-https://cdn8.aliflailabd.com/GAZI/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Independent TV
-https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Jamuna TV
-https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Maasranga TV
-https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Madani TV
-https://cdn8.aliflailabd.com/madani-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Mohona TV
-https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Movie Bangla
-https://cdn8.aliflailabd.com/movie-bangla/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",MYTV HD
-https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Nagorik TV
-https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",News 24
-https://cdn8.aliflailabd.com/News-24/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Nexus TV
-https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",NTV
-https://cdn8.aliflailabd.com/ntv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",RTV
-https://cdn8.aliflailabd.com/RTV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Sangsad TV
-https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",SATV
-https://cdn8.aliflailabd.com/SATV/index.m3u8
-#EXTINF:-1 group-title="Bangla tvs Server-Alif",Somoy TV
-https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
-
 
 
 
