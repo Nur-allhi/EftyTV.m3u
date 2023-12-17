@@ -1,6 +1,70 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="FTP Bangla Tv",GtV
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",T Sports
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",DBC News
+http://172.20.2.5:8082/DBC-NEWS/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekattor TV
+http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN News
+http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Independent TV
+http://172.20.2.5:8082/Independent-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Somoy TV
+http://172.20.2.5:8082/Somoy-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",News24 BD
+http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel 24
+http://172.20.2.5:8082/Channel24/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN Bangla
+http://172.20.2.5:8082/ATN-Bangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel i
+http://172.20.2.5:8082/Channel-i/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekushey TV
+http ://172.20.2.5:8082/Ekushey-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",NTV
+http://172.20.2.5:8082/Ntv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",RTV
+http://172.20.2.5:8082/RTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",SATV
+http://172.20.2.5:8082/SATV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",BanglaVision
+http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Boishakhi TV
+http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla
+http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="BdixTVLive",Mohona TV
+http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="BdixTVLive",MyTV
+http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="BdixTVLive",Nagorik TV
+http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="BdixTVLive",Anando TV
+http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment",Colors Bangla
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Jalsha
+https://1rdk.short.gy/Star-Jalsha/Himel-Op.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8
+#EXTINF:-1 group-title="Entertainment",Animal Planet HD 
+https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
+#EXTINF:-1 group-title="Entertainment",Travel-Xp Bangla
+https://1rdk.short.gy/Travel-Xp/Himel-Op.ts
+#EXTINF:-1 group-title="Entertainment",Nat Geo Wild Bangla
+https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
+
+
+
 #EXTINF:-1 group-title="Bangla Tvs",Green Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs", Ananda Tv
@@ -56,25 +120,6 @@ http://103.109.56.116/live/skyfeed1015/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Entertainment",Colors Bangla
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/.m3u8
-#EXTINF:-1 group-title="Entertainment",Star Jalsha
-https://1rdk.short.gy/Star-Jalsha/Himel-Op.m3u8
-#EXTINF:-1 group-title="Entertainment",Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
-#EXTINF:-1 group-title="Entertainment",Colors HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8
-#EXTINF:-1 group-title="Entertainment",Animal Planet HD 
-https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
-#EXTINF:-1 group-title="Entertainment",Travel-Xp Bangla
-https://1rdk.short.gy/Travel-Xp/Himel-Op.ts
-#EXTINF:-1 group-title="Entertainment",Nat Geo Wild Bangla
-https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
-
-
-
-
 #EXTINF:-1 group-title="Sports",Sports 18 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
@@ -92,7 +137,6 @@ https://1rdk.short.gy/Star-Select-2/Himel-Op
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids",Duronto
 https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Disney India
@@ -107,26 +151,3 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallbac
 https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Cartoon Network Hindi
 https://1rdk.short.gy/CN/Himel-Op.ts
-
-
-
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",ATN News
-http://102.102.102.102:8080/roarzone/bk/49/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Channel 24
-http://102.102.102.102:8080/roarzone/bk/5/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Channel I
-http://102.102.102.102:8080/roarzone/bk/6/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",DBC News
-http://102.102.102.102:8080/roarzone/bk/7/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Ekattor Tv
-http://102.102.102.102:8080/roarzone/bk/11/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Independent Tv
-http://102.102.102.102:8080/roarzone/bk/12/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Jomuna Tv
-http://102.102.102.102:8080/roarzone/bk/13/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",My Tv
-http://102.102.102.102:8080/roarzone/bk/56/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",SATV
-http://102.102.102.102:8080/roarzone/bk/15/mono.m3u8
-#EXTINF:-1 group-title="FTP Bangladeshi Channels",Shomoy Tv
-http://102.102.102.102:8080/roarzone/bk/17/mono.m3u8
