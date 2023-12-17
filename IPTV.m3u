@@ -38,13 +38,13 @@ http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
 http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla
 http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
-#EXTINF:-1 group-title="BdixTVLive",Mohona TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Mohona TV
 http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="BdixTVLive",MyTV
+#EXTINF:-1 group-title="FTP Bangla Tv",MyTV
 http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="BdixTVLive",Nagorik TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="BdixTVLive",Anando TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Anando TV
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
 
