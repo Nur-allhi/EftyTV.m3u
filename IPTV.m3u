@@ -52,6 +52,8 @@ http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Jalsha
 https://1rdk.short.gy/Star-Jalsha/Himel-Op.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Bangla FTP
+http://172.20.2.5:8082/ZeeBanglaHD/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
