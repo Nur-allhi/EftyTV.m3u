@@ -140,20 +140,30 @@ https://1rdk.short.gy/Star-Sports-3/Himel-Op
 https://1rdk.short.gy/Star-Select-1/Himel-Op
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 https://1rdk.short.gy/Star-Select-2/Himel-Op
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/269
+#EXTINF:-1 group-title="Sports",Sky Sports F1
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/265
+#EXTINF:-1 group-title="Sports",Sky Sports Football
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/266
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids",Duronto
+#EXTINF:-1 group-title="Kids",Duronto
 https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Disney India
+#EXTINF:-1 group-title="Kids", Disney India
 https://1rdk.short.gy/Disney-IN/Himel-Op.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Hungama Kids
+#EXTINF:-1 group-title="Kids", Hungama Kids
 https://1rdk.short.gy/Hungama/Himel-Op.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Nick Bangla
+#EXTINF:-1  group-title="Kids", Nick Bangla
 http://himeop-premium.ddns.net:25461/live/web/web/615.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Sonic Hindi
+#EXTINF:-1  group-title="Kids", Sonic Hindi
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Nick JR
+#EXTINF:-1  group-title="Kids", Nick JR
 https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Cartoon Network Hindi
+#EXTINF:-1  group-title="Kids", Cartoon Network Hindi
 https://1rdk.short.gy/CN/Himel-Op.ts
+
+
+
+#EXTINF:-1 group-title="Football",Arena Sport 2
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/171883
