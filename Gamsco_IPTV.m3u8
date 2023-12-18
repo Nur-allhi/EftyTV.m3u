@@ -94,24 +94,6 @@ http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/295217
 
 
 Brazil Football:
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: BDMG" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5bf671d23e39f2ec8bf975ba61a7d2c9.jpg" group-title="Brazil ➾ Football",BR: BDMG
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/299342
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil ➾ Football",BR: Premiere FC 1
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8785
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png" group-title="Brazil ➾ Football",BR: Premiere FC 2
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8786
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="Brazil ➾ Football",BR: Premiere FC 3
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8787
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="Brazil ➾ Football",BR: Premiere FC 4
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8788
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="Brazil ➾ Football",BR: Premiere FC 5
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8790
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 6
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8791
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 7
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8798
-
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil ➾ Sports",BR: SPORTV
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/4015
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil ➾ Sports",BR: SPORTV 2
@@ -144,7 +126,22 @@ http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/299345
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8789
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Vivo" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Brazil ➾ Sports",BR: ESPN Vivo
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/299348
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: BDMG" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5bf671d23e39f2ec8bf975ba61a7d2c9.jpg" group-title="Brazil ➾ Football",BR: BDMG
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/299342
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil ➾ Football",BR: Premiere FC 1
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8785
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png" group-title="Brazil ➾ Football",BR: Premiere FC 2
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8786
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="Brazil ➾ Football",BR: Premiere FC 3
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8787
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="Brazil ➾ Football",BR: Premiere FC 4
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8788
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="Brazil ➾ Football",BR: Premiere FC 5
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8790
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 6
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8791
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 7
+http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/8798
 
 Bulgaria Sports:
 #EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9ac9490872a74c0c05fc4af402ebea1d.png" group-title="Bulgaria ➾ Sports",BG: Diema Sport
