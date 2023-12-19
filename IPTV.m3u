@@ -2,49 +2,49 @@
 
 
 
-#EXTINF:-1 group-title="FTP Bangla Tv",GtV
+#EXTINF:-1 group-title="FTP Bangla Tv",GtV FTP
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",T Sports
+#EXTINF:-1 group-title="FTP Bangla Tv",T Sports FTP
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",DBC News
+#EXTINF:-1 group-title="FTP Bangla Tv",DBC News FTP
 http://172.20.2.5:8082/DBC-NEWS/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Ekattor TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekattor TV FTP
 http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",ATN News
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN News FTP
 http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Independent TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Independent TV FTP
 http://172.20.2.5:8082/Independent-Tv/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Somoy TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Somoy TV FTP
 http://172.20.2.5:8082/Somoy-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",News24 BD
+#EXTINF:-1 group-title="FTP Bangla Tv",News24 BD FTP
 http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Channel 24
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel 24 FTP
 http://172.20.2.5:8082/Channel24/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",ATN Bangla
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN Bangla FTP
 http://172.20.2.5:8082/ATN-Bangla/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Channel i
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel i FTP
 http://172.20.2.5:8082/Channel-i/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Ekushey TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekushey TV FTP
 http ://172.20.2.5:8082/Ekushey-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",NTV
+#EXTINF:-1 group-title="FTP Bangla Tv",NTV FTP
 http://172.20.2.5:8082/Ntv/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",RTV
+#EXTINF:-1 group-title="FTP Bangla Tv",RTV FTP
 http://172.20.2.5:8082/RTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",SATV
+#EXTINF:-1 group-title="FTP Bangla Tv",SATV FTP
 http://172.20.2.5:8082/SATV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",BanglaVision
+#EXTINF:-1 group-title="FTP Bangla Tv",BanglaVision FTP
 http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Boishakhi TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Boishakhi TV FTP
 http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla
+#EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla FTP
 http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Mohona TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Mohona TV FTP
 http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",MyTV
+#EXTINF:-1 group-title="FTP Bangla Tv",MyTV FTP
 http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV FTP
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Anando TV
+#EXTINF:-1 group-title="FTP Bangla Tv",Anando TV FTP
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
 
@@ -70,63 +70,6 @@ https://1rdk.short.gy/Travel-Xp/Himel-Op.ts
 https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
 
 
-
-#EXTINF:-1 group-title="Bangla Tvs",Green Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs", Ananda Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",ATN bd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel 24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel I
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deepto TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Independent Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Banglavision
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel 24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",DBC News
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deen Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Mohona TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",My Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",News 24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",N TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",R TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",SATV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Somoy TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ekattor Tv
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports", Sports 18
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Sports", Premiere League
 https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
 #EXTINF:-1 group-title="Sports",Sports 18 
@@ -151,6 +94,60 @@ http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/265
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/266
 
 
+#EXTINF:-1 group-title="Bangla Tvs",Green Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs", Ananda Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",ATN bd JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv JagoBd
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Channel 24 JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Channel I JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Deepto TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Independent Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Banglavision JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Channel 24 JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",DBC News JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Deen Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Mohona TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",My Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",News 24 JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",N TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",R TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",SATV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Somoy TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv JagoBd
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ekattor Tv TG
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+
+
 #EXTINF:-1 group-title="Kids",Duronto
 https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
 #EXTINF:-1 group-title="Kids", Disney India
@@ -168,5 +165,4 @@ https://1rdk.short.gy/CN/Himel-Op.ts
 
 
 
-#EXTINF:-1 group-title="Football",Arena Sport 2
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/171883
+
