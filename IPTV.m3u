@@ -46,6 +46,14 @@ http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",Anando TV FTP
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bangla Tvs", Desh TV TG
+https://1rdk.short.gy/Himel-Op/live-desh-tv.ts
+#EXTINF:-1 group-title="Bangla Tvs",Green Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="Entertainment",Colors Bangla
@@ -56,12 +64,25 @@ https://1rdk.short.gy/Star-Jalsha/Himel-Op.m3u8
 http://172.20.2.5:8082/ZeeBanglaHD/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
+#EXTINF:-1 group-title="Entertainment", Sony Aath
+http://himeop-premium.ddns.net:25461/live/web/web/591.ts
+#EXTINF:-1 group-title="Entertainment",Zee Tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony India
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/281867
+#EXTINF:-1 group-title="Entertainment", Sony SAB
+https://1rdk.short.gy/Himel-Op/sony-sab-hd.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Plus
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/16091
+https://1rdk.short.gy/Star-Plus/Himel-Op.ts
+#EXTINF:-1 group-title="Entertainment",Sony Max
+https://1rdk.short.gy/Himel-Op/set-max-hd.m3u8
+
+
+
+#EXTINF:-1 group-title="Entertainment", Discovery Bangla
+https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
 #EXTINF:-1 group-title="Entertainment",Animal Planet HD 
 https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
 #EXTINF:-1 group-title="Entertainment",Travel-Xp Bangla
@@ -86,6 +107,14 @@ https://1rdk.short.gy/Star-Sports-3/Himel-Op
 https://1rdk.short.gy/Star-Select-1/Himel-Op
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 https://1rdk.short.gy/Star-Select-2/Himel-Op
+#EXTINF:-1 group-title="Sports", Sony Sports Ten 1 HD
+https://1rdk.short.gy/Himel-Op/ten-1-hd.m3u8
+#EXTINF:-1 tgroup-title="Sports", Sony Sports Ten 2 HD
+https://1rdk.short.gy/Himel-Op/ten-2-hd.m3u8 
+#EXTINF:-1 group-title="Sports", Sony Sports Ten 3 HD
+https://1rdk.short.gy/Himel-Op/ten-3-hd.m3u8
+#EXTINF:-1 group-title="Sports", Sony Sports 5 HD
+https://1rdk.short.gy/Himel-Op/ten-5-hd.m3u8
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/269
 #EXTINF:-1 group-title="Sports",Sky Sports F1
@@ -94,8 +123,24 @@ http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/265
 http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/266
 
 
-#EXTINF:-1 group-title="Bangla Tvs",Green Tv JagoBd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids",Duronto
+https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
+#EXTINF:-1 group-title="Kids", Disney India
+https://1rdk.short.gy/Disney-IN/Himel-Op.ts
+#EXTINF:-1 group-title="Kids", Hungama Kids
+https://1rdk.short.gy/Hungama/Himel-Op.ts
+#EXTINF:-1  group-title="Kids", Nick Bangla
+http://himeop-premium.ddns.net:25461/live/web/web/615.ts
+#EXTINF:-1  group-title="Kids", Sonic Hindi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8
+#EXTINF:-1  group-title="Kids", Nick JR
+https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
+#EXTINF:-1  group-title="Kids", Cartoon Network Hindi
+https://1rdk.short.gy/CN/Himel-Op.ts
+
+
+
 #EXTINF:-1 group-title="Bangla Tvs", Ananda Tv JagoBd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",ATN bd JagoBd
@@ -146,23 +191,4 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Ekattor Tv TG
 http://103.109.56.116/live/skyfeed1015/index.m3u8
-
-
-#EXTINF:-1 group-title="Kids",Duronto
-https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
-#EXTINF:-1 group-title="Kids", Disney India
-https://1rdk.short.gy/Disney-IN/Himel-Op.ts
-#EXTINF:-1 group-title="Kids", Hungama Kids
-https://1rdk.short.gy/Hungama/Himel-Op.ts
-#EXTINF:-1  group-title="Kids", Nick Bangla
-http://himeop-premium.ddns.net:25461/live/web/web/615.ts
-#EXTINF:-1  group-title="Kids", Sonic Hindi
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8
-#EXTINF:-1  group-title="Kids", Nick JR
-https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
-#EXTINF:-1  group-title="Kids", Cartoon Network Hindi
-https://1rdk.short.gy/CN/Himel-Op.ts
-
-
-
 
