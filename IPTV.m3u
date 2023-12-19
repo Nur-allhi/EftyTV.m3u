@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="FTP Bangla Tv",GtV FTP
+#EXTINF:-1 group-title="FTP Bangla Tv",GTV FTP
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",T Sports FTP
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
