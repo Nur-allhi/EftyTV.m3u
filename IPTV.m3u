@@ -104,6 +104,8 @@ https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
 http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 #EXTINF:-1 group-title="Sports",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Sports",Sports 18 Hindi
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://media.3starisp.com.pk:80/bangla/bangla1/3715.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports Hindi
@@ -135,13 +137,23 @@ http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/266
 #EXTINF:-1 group-title="Sports",Fox Cricket
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236869
 #EXTINF:-1 group-title="Sports",Willow
-http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/237503
+https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 group-title="Sports",Jio Cricket
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236845
 #EXTINF:-1 group-title="Sports",Supersports Cricket
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236854
 #EXTINF:-1 group-title="Sports",PTV
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236838
+#EXTINF:-1 group-title="Sports",MTV
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u8
+#EXTINF:-1 group-title="Sports",ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Sports",TNT sports 2
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
 #EXTINF:-1 group-title="Kids",Cartoon Network Hindi
