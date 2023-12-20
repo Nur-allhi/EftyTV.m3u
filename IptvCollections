@@ -1,3 +1,33 @@
+Serials:
+
+1.Gtv
+2.T Sports
+3.ATN News
+4.ATN Bangla
+5.BanglaVision
+6.Ekattor TV
+7.Somoy TV
+8.SATV
+9.Channel 24
+10.DBC News
+11.Channel i
+12.Independent TV
+13.NTV
+14.Nagorik TV
+15.RTV
+16.News24 BD
+17.Ekushey TV
+18.Boishakhi TV
+19.Gaan Bangla
+20.Mohona TV
+21.My TV
+22.Jomuna Tv
+23.Bijoy Tv
+24.Deepto Tv
+25.Ananda TV
+26.Iqra Tv
+
+
 #EXTINF:-1 group-title="FTP Bangladeshi Channels",ATN News
 http://102.102.102.102:8080/roarzone/bk/49/mono.m3u8
 #EXTINF:-1 group-title="FTP Bangladeshi Channels",Channel 24
