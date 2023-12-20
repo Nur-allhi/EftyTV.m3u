@@ -1,33 +1,57 @@
-Serials:
+Jagobd playlist:
+#EXTINF:-1 group-title="Bangla Tvs",ATN Bangla JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Banglavision JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ekattor Tv TG
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Somoy TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",SATV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Channel 24 JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",DBC News JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Channel i JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Independent Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",NTV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",RTV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",News24 JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Mohona TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",My Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv JagoBd
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Deepto TV JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ananda Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Deen Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv JagoBd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv JagoBd
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 
-1.Gtv
-2.T Sports
-3.ATN News
-4.ATN Bangla
-5.BanglaVision
-6.Ekattor TV
-7.Somoy TV
-8.SATV
-9.Channel 24
-10.DBC News
-11.Channel i
-12.Independent TV
-13.NTV
-14.Nagorik TV
-15.RTV
-16.News24 BD
-17.Ekushey TV
-18.Boishakhi TV
-19.Gaan Bangla
-20.Mohona TV
-21.My TV
-22.Jomuna Tv
-23.Bijoy Tv
-24.Deepto Tv
-25.Ananda TV
-26.Iqra Tv
 
 
+
+FTP Iptv(http://ctgiptv.com/):
 #EXTINF:-1 group-title="FTP Bangladeshi Channels",ATN News
 http://102.102.102.102:8080/roarzone/bk/49/mono.m3u8
 #EXTINF:-1 group-title="FTP Bangladeshi Channels",Channel 24
@@ -48,3 +72,51 @@ http://102.102.102.102:8080/roarzone/bk/56/mono.m3u8
 http://102.102.102.102:8080/roarzone/bk/15/mono.m3u8
 #EXTINF:-1 group-title="FTP Bangladeshi Channels",Shomoy Tv
 http://102.102.102.102:8080/roarzone/bk/17/mono.m3u8
+
+FTP Iptv(http://bdixtv.live/):
+#EXTINF:-1 group-title="FTP Bangla Tv",GTV FTP
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",T Sports FTP
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN News FTP
+http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN Bangla FTP
+http://172.20.2.5:8082/ATN-Bangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",BanglaVision FTP
+http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",DBC News FTP
+http://172.20.2.5:8082/DBC-NEWS/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekattor TV FTP
+http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Independent TV FTP
+http://172.20.2.5:8082/Independent-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Somoy TV FTP
+http://172.20.2.5:8082/Somoy-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",News24 BD FTP
+http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel 24 FTP
+http://172.20.2.5:8082/Channel24/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel i FTP
+http://172.20.2.5:8082/Channel-i/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekushey TV FTP
+http ://172.20.2.5:8082/Ekushey-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",NTV FTP
+http://172.20.2.5:8082/Ntv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",RTV FTP
+http://172.20.2.5:8082/RTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",SATV FTP
+http://172.20.2.5:8082/SATV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Boishakhi TV FTP
+http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla FTP
+http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Mohona TV FTP
+http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",My TV FTP
+http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV FTP
+http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ananda TV FTP
+http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
+
+
