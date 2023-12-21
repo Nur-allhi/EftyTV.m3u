@@ -89,8 +89,6 @@ https://1rdk.short.gy/Star-Plus/Himel-Op.ts
 #EXTINF:-1 group-title="Entertainment",Sony Max
 https://1rdk.short.gy/Himel-Op/set-max-hd.m3u8
 
-
-
 #EXTINF:-1 group-title="Infotertainment",Discovery Bangla
 https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
 #EXTINF:-1 group-title="Infotertainment",Animal Planet HD
@@ -102,15 +100,12 @@ https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
 #EXTINF:-1 group-title="Infotertainment",History Tv
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
-
 #EXTINF:-1 group-title="Sports",A Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 #EXTINF:-1 group-title="Sports",PTV
 http://media.3starisp.com.pk:80/bangla/bangla1/6264.m3u8
 #EXTINF:-1 group-title="Sports",Ten Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/6445.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
@@ -121,8 +116,6 @@ http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/ind
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 2
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports",Star Sports 3
 https://1rdk.short.gy/Star-Sports-3/Himel-Op
@@ -144,9 +137,6 @@ http://45.166.92.22:58001/play/a01g/index.m3u8
 http://45.166.92.22:58001/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN 3
 http://45.166.92.22:58001/play/a01h/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="Sports",Eurosports 
 http://media.3starisp.com.pk:80/bangla/bangla1/3674.m3u8
@@ -176,6 +166,9 @@ http://supersonictv.live:8080/989223/253481/86867
 http://supersonictv.live:8080/989223/253481/86868
 #EXTINF:-1 group-title="Sports",S Football
 http://supersonictv.live:8080/989223/253481/86869
+
+
+
 
 
 
