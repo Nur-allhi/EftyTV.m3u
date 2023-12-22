@@ -220,7 +220,8 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 group-title="Sports",Sportv4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-
+#EXTINF:-1 group-title="Sports",SSC 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 group-title="Kids",Cartoon Network Hindi
 https://1rdk.short.gy/CN/Himel-Op.ts
