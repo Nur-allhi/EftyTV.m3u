@@ -35,6 +35,8 @@ https://1rdk.short.gy/Himel-Op/live-desh-tv.ts
 http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv JagoBd
 https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",Ekhon TV
+https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Green Tv JagoBd
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Independent Tv JagoBd
