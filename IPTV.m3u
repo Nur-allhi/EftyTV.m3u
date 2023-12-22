@@ -181,6 +181,45 @@ http://supersonictv.live:8080/989223/253481/86869
 #EXTINF:-1 group-title="Sports",S Football CLT
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
+#EXTINF:-1 group-title="Sports",Sportsleading 1
+https://sportsleading.online/live/stream_1.m3u8
+
+#EXTINF:-1 group-title="Sports", EDGE SPORTS
+http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Sports",Sports TV
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 1
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 2
+https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 3
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 4
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 5
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 6
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 7
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 8
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1 group-title="Sports",TSN 1
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1 group-title="Sports",FS 1
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 group-title="Sports",FS 2
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+
+EXTINF:-1 group-title="Sports",Sportv1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 group-title="Sports",Sportv2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 group-title="Sports",Sportv4
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:-1 group-title="Sports",Sportv4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
 
 #EXTINF:-1 group-title="Kids",Cartoon Network Hindi
