@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="Bangla Tvs",GTV FTP
-http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",T Sports FTP
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",BTV
@@ -13,6 +13,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",ATN News FTP
 http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bangla Tvs",ATN Islamic
+https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Banglavision JagoBd
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv JagoBd
@@ -102,12 +104,18 @@ https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
 #EXTINF:-1 group-title="Infotertainment",History Tv
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Sports",T Sports
+https://its-nayeem.000webhostapp.com/api/ayna.m3u8?id=27
 #EXTINF:-1 group-title="Sports",A Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 #EXTINF:-1 group-title="Sports",PTV
 http://media.3starisp.com.pk:80/bangla/bangla1/6264.m3u8
 #EXTINF:-1 group-title="Sports",Ten Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/6445.m3u8
+#EXTINF:-1 group-title="Sports",Ten Sports CLT
+http://go.justflix.tv:80/client112/kennythetiger2020/127
 
 #EXTINF:-1 group-title="Sports",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
@@ -148,6 +156,8 @@ http://supersonictv.live:8080/989223/253481/40451
 http://supersonictv.live:8080/989223/253481/40452
 #EXTINF:-1 group-title="Sports",Willow
 http://supersonictv.live:8080/989223/253481/85650
+#EXTINF:-1 group-title="Sports",Willow CLT
+http://go.justflix.tv:80/client112/kennythetiger2020/125
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://supersonictv.live:8080/989223/253481/78148
 #EXTINF:-1 group-title="Sports",Sky Sports Racing
@@ -168,9 +178,8 @@ http://supersonictv.live:8080/989223/253481/86867
 http://supersonictv.live:8080/989223/253481/86868
 #EXTINF:-1 group-title="Sports",S Football
 http://supersonictv.live:8080/989223/253481/86869
-
-
-
+#EXTINF:-1 group-title="Sports",S Football CLT
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
 
 
