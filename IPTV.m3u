@@ -183,6 +183,10 @@ https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
 #EXTINF:-1 group-title="Sports",Sportsleading 1
 https://sportsleading.online/live/stream_1.m3u8
+#EXTINF:-1 group-title="Sports",Sportsleading 2
+https://sportsleading.online/live/stream_2.m3u8
+#EXTINF:-1 group-title="Sports",Sportsleading 5
+https://sportsleading.online/live/stream_5.m3u8
 
 #EXTINF:-1 group-title="Sports", EDGE SPORTS
 http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
