@@ -104,8 +104,7 @@ http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports",T Sports
-https://bdtubelive.000webhostapp.com/ayna.m3u8?id=27
+
 #EXTINF:-1 group-title="Sports",A Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 #EXTINF:-1 group-title="Sports",PTV
