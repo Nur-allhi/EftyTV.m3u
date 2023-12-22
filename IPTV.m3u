@@ -78,20 +78,18 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 http://172.20.2.5:8082/ZeeBanglaHD/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony Aath
-http://himeop-premium.ddns.net:25461/live/web/web/591.ts
 #EXTINF:-1 group-title="Entertainment",Zee Tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony India
-http://gamsgo.cyou:8080/drsturko/XSDGxg8VqC7B3sLE/281867
+http://media.3starisp.com.pk:80/bangla/bangla1/3704.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony SAB
-https://1rdk.short.gy/Himel-Op/sony-sab-hd.m3u8
+http://media.3starisp.com.pk:80/bangla/bangla1/3699.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Plus
-https://1rdk.short.gy/Star-Plus/Himel-Op.ts
+http://media.3starisp.com.pk:80/bangla/bangla1/3714.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony Max
-https://1rdk.short.gy/Himel-Op/set-max-hd.m3u8
+http://media.3starisp.com.pk:80/bangla/bangla1/3696.m3u8
 
 #EXTINF:-1 group-title="Infotertainment",Discovery Bangla
 https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
@@ -114,8 +112,6 @@ http://media.3starisp.com.pk:80/bangla/bangla1/3834.m3u8
 http://media.3starisp.com.pk:80/bangla/bangla1/6264.m3u8
 #EXTINF:-1 group-title="Sports",Ten Sports
 http://media.3starisp.com.pk:80/bangla/bangla1/6445.m3u8
-#EXTINF:-1 group-title="Sports",Ten Sports CLT
-http://go.justflix.tv:80/client112/kennythetiger2020/127
 
 #EXTINF:-1 group-title="Sports",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
@@ -127,26 +123,17 @@ http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 2
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 3
-https://1rdk.short.gy/Star-Sports-3/Himel-Op
 #EXTINF:-1 group-title="Sports",Star Sports Select 1
 http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports Select 2
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Sports",Sony Sports Ten 1
-https://1rdk.short.gy/Himel-Op/ten-1-hd.m3u8
+http://172.20.2.5:8082/Ten1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Sony Sports Ten 2
-https://1rdk.short.gy/Himel-Op/ten-2-hd.m3u8
+http://172.20.2.5:8082/Ten2/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Sony Sports Ten 3
-https://1rdk.short.gy/Himel-Op/ten-3-hd.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 5
-https://1rdk.short.gy/Himel-Op/ten-5-hd.m3u8
-#EXTINF:-1 group-title="Sports",ESPN
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 2
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 3
-http://45.166.92.22:58001/play/a01h/index.m3u8
+http://172.20.2.5:8082/Special-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Sports",Eurosports 
 http://media.3starisp.com.pk:80/bangla/bangla1/3674.m3u8
@@ -156,8 +143,7 @@ http://supersonictv.live:8080/989223/253481/40451
 http://supersonictv.live:8080/989223/253481/40452
 #EXTINF:-1 group-title="Sports",Willow
 http://supersonictv.live:8080/989223/253481/85650
-#EXTINF:-1 group-title="Sports",Willow CLT
-http://go.justflix.tv:80/client112/kennythetiger2020/125
+
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://supersonictv.live:8080/989223/253481/78148
 #EXTINF:-1 group-title="Sports",Sky Sports Racing
@@ -166,6 +152,7 @@ http://supersonictv.live:8080/989223/253481/78145
 http://supersonictv.live:8080/989223/253481/78150
 #EXTINF:-1 group-title="Sports",Sky Sports Premier League
 http://supersonictv.live:8080/989223/253481/78155
+
 #EXTINF:-1 group-title="Sports",S Grandstand
 http://supersonictv.live:8080/989223/253481/86864
 #EXTINF:-1 group-title="Sports",S Variety 1
@@ -178,8 +165,6 @@ http://supersonictv.live:8080/989223/253481/86867
 http://supersonictv.live:8080/989223/253481/86868
 #EXTINF:-1 group-title="Sports",S Football
 http://supersonictv.live:8080/989223/253481/86869
-#EXTINF:-1 group-title="Sports",S Football CLT
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
 #EXTINF:-1 group-title="Sports",Sportsleading 1
 https://sportsleading.online/live/stream_1.m3u8
@@ -209,6 +194,8 @@ https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
 #EXTINF:-1 group-title="Sports",Sports TV 8
 https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 9
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 #EXTINF:-1 group-title="Sports",TSN 1
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 #EXTINF:-1 group-title="Sports",FS 1
