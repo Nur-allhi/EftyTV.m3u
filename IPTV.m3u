@@ -240,11 +240,11 @@ https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
 #EXTINF:-1 group-title="Sports",Sports TV 9
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 group-title="Sports",TSN 1
+#EXTINF:-1 group-title="Sports",Sports TV 10
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-#EXTINF:-1 group-title="Sports",FS 1
+#EXTINF:-1 group-title="Sports",Sports TV 11
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-#EXTINF:-1 group-title="Sports",FS 2
+#EXTINF:-1 group-title="Sports",Sports TV 12
 https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 
 EXTINF:-1 group-title="Sports",Sportv1
@@ -255,20 +255,3 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 group-title="Sports",Sportv4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:-1 group-title="Sports",SSC 1
-https://af.ayassport.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1 group-title="Kids",Cartoon Network Hindi
-https://1rdk.short.gy/CN/Himel-Op.ts
-#EXTINF:-1 group-title="Kids",Disney India
-https://1rdk.short.gy/Disney-IN/Himel-Op.ts
-#EXTINF:-1 group-title="Kids",Duronto
-https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
-#EXTINF:-1 group-title="Kids",Hungama Kids
-https://1rdk.short.gy/Hungama/Himel-Op.ts
-#EXTINF:-1 group-title="Kids",Nick Bangla
-http://himeop-premium.ddns.net:25461/live/web/web/615.ts
-#EXTINF:-1 group-title="Kids",Nick JR
-https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
-#EXTINF:-1 group-title="Kids",Sonic Hindi
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8
