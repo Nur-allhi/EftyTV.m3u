@@ -120,3 +120,30 @@ http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
 
+
+#EXTINF:-1 group-title="Sports",Sports TV
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 1
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 2
+https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 3
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+#EXTINF:-1 group-title="Sports",Sports Tv 4
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 5
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 6
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 7
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 8
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 9
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 10
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 11
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 group-title="Sports",Sports TV 12
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
