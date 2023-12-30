@@ -172,6 +172,25 @@ https://sportsleading.online/live/stream_2.m3u8
 #EXTINF:-1 group-title="Sports",Sportsleading 5
 https://sportsleading.online/live/stream_5.m3u8
 
+
+#EXTINF:-1 group-title="Sports",FreeHd 1
+https://freehdgames.lol/chunklist/hlsch1.m3u8
+#EXTINF:-1 group-title="Sports",FreeHd 2
+https://freehdgames.lol/chunklist/hlsch2.m3u8
+#EXTINF:-1 group-title="Sports",FreeHd 3
+https://freehdgames.lol/chunklist/hlsch3.m3u8
+#EXTINF:-1 group-title="Sports",FreeHd 4
+https://freehdgames.lol/chunklist/hlsch4.m3u8
+#EXTINF:-1 group-title="Sports",FreeHd 5
+https://freehdgames.lol/chunklist/hlsch5.m3u8
+#EXTINF:-1 group-title="Sports",FreeHd 6
+https://freehdgames.lol/chunklist/hlsch6.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Sports", EDGE SPORTS
 http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 
