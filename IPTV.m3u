@@ -1,6 +1,110 @@
 #EXTM3U
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="Bangla tvs Bioscope",Anando TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=ananda-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png" group-title="Bangla tvs Bioscope",Asian TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=asian-tv-hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="Bangla tvs Bioscope",Bangla TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=bangla-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="Bangla tvs Bioscope",Banglavision HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=bangla-vision
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="Bangla tvs Bioscope",Bijoy TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=bijoy-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="Bangla tvs Bioscope",BTV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=btv-hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" group-title="Bangla tvs Bioscope",BTV World [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=btv-world
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls4n3800/MmhxR5E.png" group-title="Bangla tvs Bioscope",Channel 24 [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=channel-24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png" group-title="Bangla tvs Bioscope",Channel I [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=channel-i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png" group-title="Bangla tvs Bioscope",DBC News [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=dbc-news
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="Bangla tvs Bioscope",Ekattor TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=ekattur-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla tvs Bioscope",Ekhon TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=ekhon-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png" group-title="Bangla tvs Bioscope",Ekushey TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=ekushey-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yvcQjGn/Logo-Global-Television.png" group-title="Bangla tvs Bioscope",Global TV HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=global-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png" group-title="Bangla tvs Bioscope",Independent TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=independent-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg" group-title="Bangla tvs Bioscope",Jamuna TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=jamuna-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Bangla tvs Bioscope",Mohona TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=mohona-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCZx8bLn/image.jpg" group-title="Bangla tvs Bioscope",Movie Bangla [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=movie-bangla-music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" group-title="Bangla tvs Bioscope",MyTV HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=my-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png" group-title="Bangla tvs Bioscope",News 24 [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=news-24-hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="Bangla tvs Bioscope",Nexus TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Bangla tvs Bioscope",NTV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=ntv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="Bangla tvs Bioscope",Rajdhani TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=rajdhani-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" group-title="Bangla tvs Bioscope",RTV HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=rtv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Xt3tf4/330px-Sangsad-Television-Emblem-svg.png" group-title="Bangla tvs Bioscope",Sangsad TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sangsad-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png" group-title="Bangla tvs Bioscope",SATV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sa-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png" group-title="Bangla tvs Bioscope",Somoy TV [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=somoy-tv
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yL1JYCZ/Colors-Bangla-Logo.png" group-title="Indian Bangla",Colors Bangla [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=colors-bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg" group-title="Indian Bangla",Colors Bangla Cinema [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=colors-bangla-cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="Indian Bangla",Sony Aath [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-aath-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png" group-title="Indian Bangla",ZEE Bangla [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=zee-bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ybP2P76/Colors-SD.png" group-title="Indian",Colors [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=colors-asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYKZ3QG8/image.jpg" group-title="Indian",Colors Rishtey [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=colors-rishtey
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png" group-title="Indian",Sony Entertainment TV HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-hd-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL20phnb/Sony-MAX2.png" group-title="Indian",Sony Max 2 [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=max-2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png" group-title="Indian",Sony Max HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-max-hd-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yVBTTBd/SONY-PAL.png" group-title="Indian",Sony Pal [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-pal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLkkpGkT/SONY-SAB-HD-WHITE.png" group-title="Indian",Sony Sab HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-sab-tv-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTFkbBXf/Sony-WAH.png" group-title="Indian",Sony Wah [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-wah-live
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ywTm5x7/download.png" group-title="English",Al Jazeera HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=al-jazeera-english-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMw3HMxt/History-tv18-hd.png" group-title="Documentary",History TV 18 [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=history-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkYLdrkK/z6YpAkF.png" group-title="Documentary",Sony BBC Earth HD [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=bbc-earth-hd-live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMsSQhvG/800px-Nick.png" group-title="Kids",Nick [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=nickelodeon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzLkN1yF/nick-jr-preview.png" group-title="Kids",Nick Jr. [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=nick-junior
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SjFf6CJw/Sonic-logo.jpg" group-title="Kids",Sonic [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sonic
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwxdYxpm/SONY-YAY.png" group-title="Kids",Sony Yay [Bioscope]
+https://bdtubelive.xyz/bdix.m3u8?id=sony-yay-live
+
+
 #EXTINF:-1 group-title="English News",Al jazeera Live
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
