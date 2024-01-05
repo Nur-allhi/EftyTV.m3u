@@ -2,8 +2,53 @@
 
 
 
+#EXTINF:-1 group-title="FTP Bangla Tv",GTV FTP
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",T Sports FTP
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN News FTP
+http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",ATN Bangla FTP
+http://172.20.2.5:8082/ATN-Bangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",BanglaVision FTP
+http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",DBC News FTP
+http://172.20.2.5:8082/DBC-NEWS/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekattor TV FTP
+http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Independent TV FTP
+http://172.20.2.5:8082/Independent-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Somoy TV FTP
+http://172.20.2.5:8082/Somoy-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",News24 BD FTP
+http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel 24 FTP
+http://172.20.2.5:8082/Channel24/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Channel i FTP
+http://172.20.2.5:8082/Channel-i/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ekushey TV FTP
+http ://172.20.2.5:8082/Ekushey-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",NTV FTP
+http://172.20.2.5:8082/Ntv/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",RTV FTP
+http://172.20.2.5:8082/RTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",SATV FTP
+http://172.20.2.5:8082/SATV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Boishakhi TV FTP
+http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Gaan Bangla FTP
+http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Mohona TV FTP
+http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",My TV FTP
+http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV FTP
+http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="FTP Bangla Tv",Ananda TV FTP
+http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
-#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="Bangla tvs Bioscope",Anando TV [Bioscope]
 https://bdtubelive.xyz/bdix.m3u8?id=ananda-tv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png" group-title="Bangla tvs Bioscope",Asian TV [Bioscope]
