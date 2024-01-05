@@ -48,6 +48,61 @@ http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
 
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/d3KgmRJn/Bangladesh-Television-Chittagong-Logo.png",BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg",BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png",Sangsad TV
+http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg",Anando TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg",ATN News
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png",Banglavision HD
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/BnM8ZZH3/pTJSGtj.png",Boishakhi TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg",Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png",Channel I
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png",Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png",Ekhon TV
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",Ekushey TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png",Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png",Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png",Green TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/nhCFJyK6/b-logo.png",Madani Channel Bangla
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg",Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png",News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png",Nexus TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png",Somoy TV
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png",TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg",WION
+http://cdn01.palki.tv/live/WION-M/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="Bangla tvs Bioscope",Anando TV [Bioscope]
 https://bdtubelive.xyz/bdix.m3u8?id=ananda-tv
