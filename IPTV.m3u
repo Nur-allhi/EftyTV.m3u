@@ -1,6 +1,89 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="Ayna OTT",BTV National
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=1&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="Ayna OTT",BTV World
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=2&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="3" tvg-name="Sangshad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" tvg-chno="3" group-title="Ayna OTT",Sangshad TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=3&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="4" tvg-name="BTV Chattogram" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" tvg-chno="4" group-title="Ayna OTT",BTV Chattogram
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=4&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="5" tvg-name="Bangla Vision" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" tvg-chno="5" group-title="Ayna OTT",Bangla Vision
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=5&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="6" tvg-name="Channel I" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" tvg-chno="6" group-title="Ayna OTT",Channel I
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=6&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="7" tvg-name="Ekushey TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="7" group-title="Ayna OTT",Ekushey TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=7&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="8" tvg-name="NTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" tvg-chno="8" group-title="Ayna OTT",NTV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=8&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="9" tvg-name="ATN Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" tvg-chno="9" group-title="Ayna OTT",ATN Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=9&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" tvg-chno="10" group-title="Ayna OTT",Boishakhi TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=10&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="11" tvg-name="Maasranga TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" tvg-chno="11" group-title="Ayna OTT",Maasranga TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=11&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="12" tvg-name="Desh TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" tvg-chno="12" group-title="Ayna OTT",Desh TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=12&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="13" tvg-name="My TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" tvg-chno="13" group-title="Ayna OTT",My TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=13&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="14" tvg-name="ATN News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" tvg-chno="14" group-title="Ayna OTT",ATN News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=14&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="15" tvg-name="Mohona TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" tvg-chno="15" group-title="Ayna OTT",Mohona TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=15&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="16" tvg-name="Bijoy TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="16" group-title="Ayna OTT",Bijoy TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=16&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="17" tvg-name="Somoy News TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" tvg-chno="17" group-title="Ayna OTT",Somoy News TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=17&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="Ayna OTT",Gazi TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=18&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="19" tvg-name="Gazi TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" tvg-chno="19" group-title="Ayna OTT",Gazi TV HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=19&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="20" tvg-name="Channel 9" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="20" group-title="Ayna OTT",Channel 9
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=20&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="21" tvg-name="Channel 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" tvg-chno="21" group-title="Ayna OTT",Channel 24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=21&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="22" tvg-name="Gaan Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="22" group-title="Ayna OTT",Gaan Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=22&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="23" tvg-name="Ekattor TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" tvg-chno="23" group-title="Ayna OTT",Ekattor TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=23&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="24" tvg-name="Asian TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" tvg-chno="24" group-title="Ayna OTT",Asian TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=24&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="25" tvg-name="SA TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" tvg-chno="25" group-title="Ayna OTT",SA TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=25&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="26" tvg-name="Jamuna TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" tvg-chno="26" group-title="Ayna OTT",Jamuna TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=26&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="Ayna OTT",T Sports HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=27&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="28" group-title="Ayna OTT",T Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=28&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="29" tvg-name="DBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" tvg-chno="29" group-title="Ayna OTT",DBC News
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=29&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="30" tvg-name="News 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" tvg-chno="30" group-title="Ayna OTT",News 24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=30&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="31" tvg-name="Bangla TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png" tvg-chno="31" group-title="Ayna OTT",Bangla TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=31&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="32" tvg-name="Nexus TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" tvg-chno="32" group-title="Ayna OTT",Nexus TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=32&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="33" tvg-name="Ananda TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" tvg-chno="33" group-title="Ayna OTT",Ananda TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=33&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="34" tvg-name="Global TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" tvg-chno="34" group-title="Ayna OTT",Global TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=34&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="35" tvg-name="Green TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" tvg-chno="35" group-title="Ayna OTT",Green TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=35&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="36" tvg-name="Duronto TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" tvg-chno="36" group-title="Ayna OTT",Duronto TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=36&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="37" tvg-name="IQRA Bangla TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/39b2a216-5975-4f18-99c1-8404a28a046c_180x180_iqrabangla.jpg" tvg-chno="37" group-title="Ayna OTT",IQRA Bangla TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=37&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="38" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg" tvg-chno="38" group-title="Ayna OTT",Sangeet Bangla
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=38&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="39" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" tvg-chno="39" group-title="Ayna OTT",B4U Music
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=39&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="40" tvg-name="Ekhon TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" tvg-chno="40" group-title="Ayna OTT",Ekhon TV
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=40&e=.m3u8|User-Agent=bdsajib
+
+
+
 #EXTINF:-1 group-title="FTP Bangla Tv",GTV FTP
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",T Sports FTP
