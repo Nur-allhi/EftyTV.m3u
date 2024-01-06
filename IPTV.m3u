@@ -231,6 +231,19 @@ https://freehdgames.lol/chunklist/hlsch22.m3u8
 https://freehdgames.lol/chunklist/hlsch23.m3u8
 
 
+
+#EXTINF:-1 group-title="Sports",gettvfree 1
+https://gettvfree.tech/live/stream_1.m3u8
+#EXTINF:-1 group-title="Sports",gettvfree 2
+https://gettvfree.tech/live/stream_2.m3u8
+#EXTINF:-1 group-title="Sports",gettvfree 3
+https://gettvfree.tech/live/stream_3.m3u8
+#EXTINF:-1 group-title="Sports",gettvfree 6
+https://gettvfree.tech/live/stream_6.m3u8
+#EXTINF:-1 group-title="Sports",gettvfree 7
+https://gettvfree.tech/live/stream_7.m3u8
+
+
 #EXTINF:-1 group-title="Sports", EDGE SPORTS
 http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 
