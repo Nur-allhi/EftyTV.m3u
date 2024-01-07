@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTM3U
-
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
