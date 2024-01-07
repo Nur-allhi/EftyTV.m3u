@@ -1,70 +1,70 @@
 
 Last sided 05/01/2024
-#EXTINF:-1 group-title="Bangla Tvs",GTV FTP
+#EXTINF:-1 group-title="Bangla Tvs",GTV [FTP]
 http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",T Sports FTP
+#EXTINF:-1 group-title="Bangla Tvs",T Sports [FTP]
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",BTV
+#EXTINF:-1 group-title="Bangla Tvs",BTV [Tg]
 http://103.230.105.252:1935/live/btv/manifest.mpd
-#EXTINF:-1 group-title="Bangla Tvs",Ananda Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Ananda Tv [JagoBd]
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",ATN Bangla JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",ATN Bangla [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",ATN News FTP
+#EXTINF:-1 group-title="Bangla Tvs",ATN News [FTP]
 http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",ATN Islamic
+#EXTINF:-1 group-title="Bangla Tvs",ATN Islamic [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Banglavision JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Banglavision [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel 24 JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Channel 24 [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel i JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Channel i [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",DBC News JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",DBC News [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deen Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Deen Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deepto TV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Deepto TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Desh Tv Tg
+#EXTINF:-1 group-title="Bangla Tvs",Desh Tv [Tg]
 https://1rdk.short.gy/Himel-Op/live-desh-tv.ts
-#EXTINF:-1 group-title="Bangla Tvs",Ekattor TV FTP
+#EXTINF:-1 group-title="Bangla Tvs",Ekattor TV [FTP]
 http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ekhon TV
+#EXTINF:-1 group-title="Bangla Tvs",Ekhon TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Green Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Green Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Independent Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Independent Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Mohona TV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Mohona TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",My Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",My Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Nagorik TV FTP
+#EXTINF:-1 group-title="Bangla Tvs",Nagorik TV [FTP]
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",News24 JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",News24 [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",NTV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",NTV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",RTV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",RTV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",SATV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",SATV [JagoBd]
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Somoy TV JagoBd
+#EXTINF:-1 group-title="Bangla Tvs",Somoy TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 --------------------------------------------------------------------------------------
