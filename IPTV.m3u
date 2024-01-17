@@ -244,6 +244,13 @@ https://bongohub.pw/bioscope.php?cc=sony-yay-live
 #EXTINF:-1 group-title="English News",Al jazeera Live
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
+#EXTINF:-1 group-title="Indo Bangla",Zee Bangla
+http://103.132.181.118:82/play/a00k
+#EXTINF:-1 group-title="Indo Bangla",Colors
+http://103.132.181.118:82/play/a00g
+#EXTINF:-1 group-title="Indo Bangla",Star Plus
+http://103.132.181.118:82/play/a00e
+
 
 #EXTINF:-1 group-title="Sports",T sports
 http://113.212.111.246:8080/hls/col12.m3u8
