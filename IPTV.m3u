@@ -44,11 +44,10 @@ http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
 http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",Nagorik TV FTP
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title="FTP Bangla Tv",Ananda TV FTP
+#EXTINF:-1 group-title="FTP Bangla Tv",Ananda TV [FTP]
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Bangla Tvs",GTV [FTP]
-http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangla Tvs",T Sports [FTP]
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",BTV [Tg]
@@ -77,8 +76,6 @@ https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Deepto TV [JagoBd]
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Desh Tv [Tg]
-https://1rdk.short.gy/Himel-Op/live-desh-tv.ts
 #EXTINF:-1 group-title="Bangla Tvs",Ekattor TV [FTP]
 http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv [JagoBd]
@@ -270,22 +267,15 @@ http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports Select 2
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 1
-http://172.20.2.5:8082/Ten1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 2
-http://172.20.2.5:8082/Ten2/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports Ten 3
-http://172.20.2.5:8082/Special-TV/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Sports",Eurosports 
-http://media.3starisp.com.pk:80/bangla/bangla1/3674.m3u8
+
+
 #EXTINF:-1 group-title="Sports",Eurosport 1 
 http://supersonictv.live:8080/989223/253481/40451
 #EXTINF:-1 group-title="Sports",Eurosport 2 
 http://supersonictv.live:8080/989223/253481/40452
 #EXTINF:-1 group-title="Sports",Willow
 http://supersonictv.live:8080/989223/253481/85650
-
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://supersonictv.live:8080/989223/253481/78148
 #EXTINF:-1 group-title="Sports",Sky Sports Racing
@@ -294,7 +284,6 @@ http://supersonictv.live:8080/989223/253481/78145
 http://supersonictv.live:8080/989223/253481/78150
 #EXTINF:-1 group-title="Sports",Sky Sports Premier League
 http://supersonictv.live:8080/989223/253481/78155
-
 #EXTINF:-1 group-title="Sports",S Grandstand
 http://supersonictv.live:8080/989223/253481/86864
 #EXTINF:-1 group-title="Sports",S Variety 1
@@ -316,72 +305,3 @@ https://sportsleading.online/live/stream_2.m3u8
 https://sportsleading.online/live/stream_5.m3u8
 
 
-#EXTINF:-1 group-title="Sports",FreeHd 1
-https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 2
-https://freehdgames.lol/chunklist/hlsch2.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 3
-https://freehdgames.lol/chunklist/hlsch3.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 4
-https://freehdgames.lol/chunklist/hlsch4.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 5
-https://freehdgames.lol/chunklist/hlsch5.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 6
-https://freehdgames.lol/chunklist/hlsch6.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 7
-https://freehdgames.lol/chunklist/hlsch7.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 8
-https://freehdgames.lol/chunklist/hlsch8.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 9
-https://freehdgames.lol/chunklist/hlsch9.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 10
-https://freehdgames.lol/chunklist/hlsch10.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 11
-https://freehdgames.lol/chunklist/hlsch11.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 13
-https://freehdgames.lol/chunklist/hlsch13.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 14
-https://freehdgames.lol/chunklist/hlsch14.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 15
-https://freehdgames.lol/chunklist/hlsch15.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 17
-https://freehdgames.lol/chunklist/hlsch17.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 18
-https://freehdgames.lol/chunklist/hlsch18.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 19
-https://freehdgames.lol/chunklist/hlsch19.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 20
-https://freehdgames.lol/chunklist/hlsch20.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 21
-https://freehdgames.lol/chunklist/hlsch21.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 22
-https://freehdgames.lol/chunklist/hlsch22.m3u8
-#EXTINF:-1 group-title="Sports",FreeHd 23
-https://freehdgames.lol/chunklist/hlsch23.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports",gettvfree 1
-https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:-1 group-title="Sports",gettvfree 2
-https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:-1 group-title="Sports",gettvfree 3
-https://gettvfree.tech/live/stream_3.m3u8
-#EXTINF:-1 group-title="Sports",gettvfree 6
-https://gettvfree.tech/live/stream_6.m3u8
-#EXTINF:-1 group-title="Sports",gettvfree 7
-https://gettvfree.tech/live/stream_7.m3u8
-
-
-#EXTINF:-1 group-title="Sports", EDGE SPORTS
-http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-
-
-EXTINF:-1 group-title="Sports",Sportv1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 group-title="Sports",Sportv2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 group-title="Sports",Sportv4
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 group-title="Sports",Sportv4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
