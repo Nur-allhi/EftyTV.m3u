@@ -47,6 +47,12 @@ http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FTP Bangla Tv",Ananda TV [FTP]
 http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
 
+BPL
+#EXTINF:-1 group-title="BPL",Live 1
+https://apps.hotflixbd.online/hotflix/live/index.m3u8
+#EXTINF:-1 group-title="BPL",Live 2
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+
 
 #EXTINF:-1 group-title="Bangla Tvs",T Sports [FTP]
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
