@@ -25,24 +25,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 
 
-#EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Entertainment",Colors HD
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-infinity-hd.jpg" group-title="Entertainment",Colors Infinity HD
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-infinity-hd/index.ts
-#EXTINF:-1 tvg-id="785" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-super.jpg" group-title="Entertainment",Colors Super
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-super/index.ts
-#EXTINF:-1 tvg-id="544" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/nick-junior.jpg" group-title="Kids",Nick Junior
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/nick-junior/index.ts
-#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/nick-hd.jpg" group-title="Kids",Nick HD+
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/nick-hd/index.ts
-#EXTINF:-1 tvg-id="815" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sonic.jpg" group-title="Kids",Sonic
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sonic/index.ts
-#EXTINF:-1 tvg-id="463" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/discovery-hd-world.png" group-title="Infotainment",Discovery HD World
-https://jio.dinesh29.com.np/live/jio-universal/discovery-hd-world/index.ts
-#EXTINF:-1 tvg-id="2779" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/red-bull-tv.png" group-title="Sports",Red Bull TV
-https://jio.dinesh29.com.np/live/jio-universal/red-bull-tv/index.ts
-#EXTINF:-1 tvg-id="562" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/travelxp-hd-hindi.png" group-title="Lifestyle",Travelxp HD Hindi
-https://jio.dinesh29.com.np/live/jio-universal/travelxp-hd-hindi/index.ts
+
 
 
 
@@ -60,8 +43,8 @@ http://b1g.uk/live/ram/ram/662136.ts
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Sports", ICC t20
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-
-
+#EXTINF:-1 group-title="Sports", SLV vs UKR
+https://a2uy.short.gy/SLV-V-UKR-Multi/Join-@HimelOP_Official/Zubayer_Op.m3u8
 
 
 
