@@ -1,62 +1,69 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla Tvs",ATN Bangla 
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Banglavision 
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Somoy TV 
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",SATV 
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel 24 
-https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",DBC News 
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Channel i 
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Independent Tv 
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",NTV 
-https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",RTV 
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",News24 
-https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ekushey Tv 
-https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",BoishakhiTv 
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Mohona TV 
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",My Tv 
-https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Jomuna TV 
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Bijoy Tv 
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deepto TV 
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Ananda Tv 
-https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Deen Tv 
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Makkah Tv 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@SaudiQuranTv
-#EXTINF:-1 group-title="Bangla Tvs",Nexus Tv 
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Tvs",Iqra Tv 
-https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi", Somoy TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi", DBC News
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dbcnewstv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi",Ekhon TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi", Independent TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndependentTelevision
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangladeshi", Jamuna TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi", Ekattor TV HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@EkattorTelevision
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi", Channel I HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ChanneliNews
+
+#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi", News 24 HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
 
 
-#EXTINF:-1 group-title="Sports",ICC t20 Toffee EN
-https://fdev.short.gy/IPLxBD.m3u8
-#EXTINF:-1 group-title="Sports",ICC t20 Toffee BN
-https://fdev.short.gy/BDIX-1.m3u8
-#EXTINF:-1 group-title="Sports",England vs Denmark S1
-https://a2uy.short.gy/ENG-V-DEN/Join-@HimelOP_Official/Zubayer_Op.m3u8
-#EXTINF:-1 group-title="Sports",England vs Denmark S2
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-#EXTINF:-1 group-title="Sports",ICC t20 HimelTg
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/r3pYsaO3k0SohKep8iiCOtyNu_s3RAURjf0vB-sO2223KWnmaAoFXCk_pSo_d4Fq1cc5TWFWpMT8x9ZxgSDfSQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
-#EXTINF:-1 group-title="Sports",ICC t20 
-https://video-edge-916834-fra02.hls-video.net/live/english-720p-x264.m3u8
+
+
+
+#EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Entertainment",Colors HD
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
+
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-infinity-hd.jpg" group-title="Entertainment",Colors Infinity HD
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-infinity-hd/index.ts
+
+#EXTINF:-1 tvg-id="785" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-super.jpg" group-title="Entertainment",Colors Super
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-super/index.ts
+
+#EXTINF:-1 tvg-id="544" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/nick-junior.jpg" group-title="Kids",Nick Junior
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/nick-junior/index.ts
+
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/nick-hd.jpg" group-title="Kids",Nick HD+
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/nick-hd/index.ts
+
+#EXTINF:-1 tvg-id="815" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sonic.jpg" group-title="Kids",Sonic
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sonic/index.ts
+
+#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sports-18-hd.jpg" group-title="Sports",SPORTS 18 HD
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sports-18-hd/index.ts
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sports-18-khel.jpg" group-title="Sports",SPORTS 18 Khel
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sports-18-khel/index.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-group-title="Sports", T Sports
+http://himelop-back.ddns.net:8080/hls/col12.m3u8
+
+#EXTINF:-1 group-title="Sports", ICC t20
+https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
+
+
+
+
+
