@@ -63,7 +63,10 @@ http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Sports", ICC t20
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 
-
+#EXTINF:-1 group-title="Sports",ICC t20 Toffee EN
+https://fdev.short.gy/IPLxBD.m3u8
+#EXTINF:-1 group-title="Sports",ICC t20 Toffee BN
+https://fdev.short.gy/BDIX-1.m3u8
 
 
 
