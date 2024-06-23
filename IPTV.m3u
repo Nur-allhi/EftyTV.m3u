@@ -29,23 +29,4 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1226" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sports-18-hd.jpg" group-title="Sports",SPORTS 18 HD
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sports-18-hd/index.ts
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/sports-18-khel.jpg" group-title="Sports",SPORTS 18 Khel
-https://jiocinema.dinesh29.com.np/live/jiocinema-universal/sports-18-khel/index.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-group-title="Sports",ICC t20 Star 4k 1 
-https://tgaadi-web.tech/b1g.php?tv=662136
-#EXTINF:-1 group-title="Sports",ICC t20 Star 4k 2
-http://b1g.uk/live/Karl123/Karl123/662136.ts
-#EXTINF:-1 group-title="Sports",ICC t20 Star 4k 3
-http://b1g.uk/live/ram/ram/662136.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
-#EXTINF:-1 group-title="Sports", ICC t20
-https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-#EXTINF:-1 group-title="Sports", SLV vs UKR
-https://a2uy.short.gy/SLV-V-UKR-Multi/Join-@HimelOP_Official/Zubayer_Op.m3u8
-
-
-
 
