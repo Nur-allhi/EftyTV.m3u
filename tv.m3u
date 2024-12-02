@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bio.link/uploads/profile_pictures/2024-05-01/4IHrznAeaWGXHdOZni5qKeUxWepY68Id.png" group-title="Opplex",Denver1769
 https://denverisalive.github.io/Intro/Denver.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg" group-title="T Sports",T Sports Live 03
-#EXTVLCOPT:http-user-agent=Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733175983:KeyName=tsports-ed25519-01:Signature=KXzT15wc5zK7yicR-0QFsYFkVbiBtKzJbBz1RktI-5Yc-bBdSAfZiBdQoKZsMdkISXwk7fUDO06VnzMrQLolBg
-https://live-cdn.tsports.com/live-03/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 4 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
