@@ -7,6 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=867ab2da044bcc1e4cc1a9252b03ce3e:0db59352d361b0a132c0a64bb231750a
 https://abhvfwoaaaaaaaamge5xi5icfzq64.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjrxodbgeh/out/v1/69b95861163a42d9a34a1d4ceece7a7a/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Geo Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
+https://live5.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime AVC 1.1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
