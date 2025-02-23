@@ -13,6 +13,12 @@ https://abhvfwoaaaaaaaamge5xi5icfzq64.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 https://live5.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Jio Hotstar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1740328395~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=17eb82a32e2f37cd44acee6f917b97b901e0d63a387e9616eb1c0fca59bd7de9/manifest.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime AVC 1.1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
