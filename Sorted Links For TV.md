@@ -2,3 +2,9 @@
 <br>
 <br>
 [EPN FTP](http://172.20.2.5/we/)
+<br>
+[DDN FTP](http://bdixtv.live/we/)
+<br>
+[SPORTS TVN](https://sportstvn.com/)
+<br>
+[ZubyerOp-Game24](https://www.game24x.xyz/?m=1)
