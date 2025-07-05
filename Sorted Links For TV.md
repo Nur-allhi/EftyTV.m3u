@@ -22,3 +22,7 @@
 [ZubyerOp-Game24](https://www.game24x.xyz/?m=1)
 <br>
 [BongoFlix](https://tv.bongoflix.top/)
+<br>
+[Jio Tv +](https://mini1.allinonereborn.xyz/jiotv-ww192/)
+<br>
+[Sony Liv](https://allinonereborn.fun/sony/)
