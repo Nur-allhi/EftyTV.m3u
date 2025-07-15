@@ -1,6 +1,3 @@
-
-
-```markdown
 # My Essential Links 🚀
 
 This document serves as a quick reference for my essential streaming, live TV, and FTP server links.
